@@ -1,0 +1,5 @@
+We have to write a script to check if a website is up or down and if the website 
+is down then send a email to a particular owner.
+
+the script can be written in Python or bash. it should expect a website URL to be 
+checked and an email address on which we have to send a notification.
